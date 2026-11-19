@@ -1,0 +1,3855 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "total_properties": 170,
+    "darglobal_count": 42,
+    "wasalt_count": 128,
+    "sources": [
+      "DarGlobal (darglobal.co.uk)",
+      "Wasalt (wasalt.com)"
+    ]
+  },
+  "darglobal_projects": [
+    {
+      "id": "dg_AIDA",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "AIDA",
+      "location": "Muscat, Oman",
+      "country": "Oman",
+      "project_type": "Masterplan / Luxury Villas & Golf Community",
+      "brand_partners": [
+        "Trump Organization",
+        "Fendi Casa",
+        "Marriott Residences"
+      ],
+      "starting_price": "Starting from approx. 1,500,000 USD",
+      "description": "One of the world's largest premium mixed-use developments perched 130 meters above the shores of the Gulf of Oman. Features luxury villas, residences, and Trump International Golf Club Oman.",
+      "amenities": [
+        "Trump International Golf Course",
+        "Clifftop Oceanfront views",
+        "Private Beach Club",
+        "5-star luxury hotels",
+        "Wellness & Spa Centers"
+      ],
+      "url": "https://darglobal.co.uk/landing-page/aida"
+    },
+    {
+      "id": "dg_PLV",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Padel Living Residences",
+      "location": "Padel Living Residences, Jeddha",
+      "country": "Padel Living Residences, Jeddha",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Padel Living Residences, Jeddha. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_trump_intern",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Trump International Hotel & Resort Maldives",
+      "location": "Maldives | Noonu Atoll",
+      "country": "Maldives | Noonu Atoll",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [
+        "Trump"
+      ],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Maldives | Noonu Atoll. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_etoile",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "etoile",
+      "location": "Riyadh, Saudi Arabia",
+      "country": "Riyadh, Saudi Arabia",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Riyadh, Saudi Arabia. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_RY",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Trump Mansions, Rayana, Wadi Safar",
+      "location": "Wadi Safar, Riyadh, Saudi Arabia",
+      "country": "saudi-arabia",
+      "project_type": "Ultra-Luxury Private Mansions",
+      "brand_partners": [
+        "Trump Organization",
+        "Wadi Safar / Diriyah Gate"
+      ],
+      "starting_price": "Price on exclusive application",
+      "description": "Palatial luxury estate mansions in Riyadh's prestigious Wadi Safar cultural & equestrian valley, offering bespoke architecture and Trump brand distinction.",
+      "amenities": [
+        "Private sprawling gardens",
+        "Golf & equestrian club access",
+        "Highest level private security",
+        "Majlis & banquet halls"
+      ],
+      "url": "https://darglobal.co.uk/project/trump-mansions-wadi-safar"
+    },
+    {
+      "id": "dg_RY",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Dâ€™Mansions, Wadi Safar",
+      "location": "saudi-arabia",
+      "country": "saudi-arabia",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in saudi-arabia. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_RY",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Amaya, Wadi Safar",
+      "location": "saudi-arabia",
+      "country": "saudi-arabia",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in saudi-arabia. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_RY",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Altara, Wadi Safar",
+      "location": "saudi-arabia",
+      "country": "saudi-arabia",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in saudi-arabia. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_RY",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Rayana Kingdom, Rayana, Wadi Safar",
+      "location": "saudi-arabia",
+      "country": "saudi-arabia",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in saudi-arabia. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_TP",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Trump Executive Residences, Amaya, Jeddah",
+      "location": "saudi-arabia",
+      "country": "saudi-arabia",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [
+        "Trump"
+      ],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in saudi-arabia. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_TP",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Trump Park Residences, Amaya, Jeddah",
+      "location": "saudi-arabia",
+      "country": "saudi-arabia",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [
+        "Trump"
+      ],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in saudi-arabia. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_RY",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Rayana Mansions, Rayana, Wadi Safar",
+      "location": "saudi-arabia",
+      "country": "saudi-arabia",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in saudi-arabia. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_LZ",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Lumaia, Doha",
+      "location": "Doha, Lumaia",
+      "country": "Doha, Lumaia",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Doha, Lumaia. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_MA",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Marea-Interiors by Missoni",
+      "location": "Cortesín, Costa del Sol, Spain",
+      "country": "International",
+      "project_type": "Luxury Branded Villas & Apartments",
+      "brand_partners": [
+        "Missoni"
+      ],
+      "starting_price": "From 1,200,000 EUR",
+      "description": "Elite branded villas overlooking Finca Cortesín resort and golf club, with stylish Italian interiors by Missoni. Mediterranean living at its pinnacle.",
+      "amenities": [
+        "Panoramic golf & Mediterranean views",
+        "Finca Cortesin golf access",
+        "Tennis & padel courts",
+        "Missoni interior customization"
+      ],
+      "url": "https://darglobal.co.uk/project/marea"
+    },
+    {
+      "id": "dg_TV",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Tierra Viva",
+      "location": "Benahavís, Costa del Sol, Spain",
+      "country": "International",
+      "project_type": "Super-Luxury Villas",
+      "brand_partners": [
+        "Automobili Lamborghini"
+      ],
+      "starting_price": "From 9,000,000 EUR",
+      "description": "An ultra-exclusive architectural enclave of luxury villas inspired by Automobili Lamborghini. Located on the slopes of the Andalusian hills near Marbella.",
+      "amenities": [
+        "Direct Mediterranean views",
+        "Private elevator in every villa",
+        "Infinity pools",
+        "24/7 gated security community"
+      ],
+      "url": "https://darglobal.co.uk/project/tierra-viva"
+    },
+    {
+      "id": "dg_AM",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "The Astera",
+      "location": "Al Marjan Island, Ras Al Khaimah, UAE",
+      "country": "International",
+      "project_type": "Branded Beachfront Residences",
+      "brand_partners": [
+        "Aston Martin"
+      ],
+      "starting_price": "From 1,900,000 AED",
+      "description": "Breathtaking beachfront residences designed with interiors by Aston Martin, located adjacent to the upcoming Wynn Al Marjan Island casino resort.",
+      "amenities": [
+        "Private pristine beach",
+        "Aston Martin curated aesthetics",
+        "Infinity beach pool",
+        "Scenic sea & sunset views"
+      ],
+      "url": "https://darglobal.co.uk/project/the-astera"
+    },
+    {
+      "id": "dg_DG1",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "DG1",
+      "location": "Business Bay, Dubai, UAE",
+      "country": "International",
+      "project_type": "Luxury Waterfront High-Rise Residences",
+      "brand_partners": [
+        "Gensler Architecture"
+      ],
+      "starting_price": "From approx. 1,800,000 AED",
+      "description": "A landmark architectural masterpiece on the banks of Dubai Canal designed by Gensler. Offers 1, 2, and 3-bedroom luxury apartments with unobstructed Burj Khalifa and canal views.",
+      "amenities": [
+        "Infinity Sky Pool",
+        "Dubai Canal views",
+        "State-of-the-art gym",
+        "Direct waterfront promenade access"
+      ],
+      "url": "https://darglobal.co.uk/project/dg1"
+    },
+    {
+      "id": "dg_DVT",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Da Vinci Tower, Interiors by Pagani",
+      "location": "Downtown Dubai Canal, UAE",
+      "country": "International",
+      "project_type": "Ultra-Luxury Branded Residences",
+      "brand_partners": [
+        "Pagani Automobili"
+      ],
+      "starting_price": "Starting from approx. 6,000,000 AED",
+      "description": "Exclusive residential tower with bespoke interiors created in partnership with legendary Italian hypercar atelier Pagani Automobili. Pure Italian design excellence.",
+      "amenities": [
+        "Pagani signature carbon-fiber detailing",
+        "Rooftop infinity pool with Burj Khalifa view",
+        "Bespoke fitness center",
+        "Private resident lounge"
+      ],
+      "url": "https://darglobal.co.uk/project/da-vinci-tower"
+    },
+    {
+      "id": "dg_WR",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "W Residences",
+      "location": "Downtown Dubai, UAE",
+      "country": "International",
+      "project_type": "Branded Luxury Apartments",
+      "brand_partners": [
+        "W Hotels / Marriott International"
+      ],
+      "starting_price": "From 2,200,000 AED",
+      "description": "Sophisticated branded residences managed by Marriott International under the rebellious luxury W brand, right in the heart of Downtown Dubai with Burj Khalifa views.",
+      "amenities": [
+        "W Clubhouse",
+        "Whatever/Whenever concierge",
+        "Infinity swimming pool",
+        "Co-working spaces & Media lounge"
+      ],
+      "url": "https://darglobal.co.uk/project/w-residences"
+    },
+    {
+      "id": "dg_UOT",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Urban Oasis",
+      "location": "Business Bay / Dubai Canal, UAE",
+      "country": "International",
+      "project_type": "Waterfront Luxury Residences",
+      "brand_partners": [
+        "Missoni Home"
+      ],
+      "starting_price": "From 1,500,000 AED",
+      "description": "Vibrant Miami-inspired waterfront development with bespoke interiors by Missoni Home, right by Dubai Water Canal.",
+      "amenities": [
+        "Infinity pool overlooking Dubai Canal",
+        "Missoni-styled common areas",
+        "Gymnasium & wellness club"
+      ],
+      "url": "https://darglobal.co.uk/project/urban-oasis"
+    },
+    {
+      "id": "dg_the_mulliner",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "The Mulliner",
+      "location": "International",
+      "country": "International",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in International. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_LVA",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Les Vagues",
+      "location": "Qetaifan Island North, Doha, Qatar",
+      "country": "International",
+      "project_type": "Branded Island Waterfront Residences",
+      "brand_partners": [
+        "Elie Saab Haute Couture"
+      ],
+      "starting_price": "From 2,000,000 QAR",
+      "description": "Super-luxury sea-facing apartments with elegant interiors by Elie Saab on Qatar's entertainment island capital.",
+      "amenities": [
+        "Private beach access",
+        "Water park proximity",
+        "Elie Saab custom interior finishes",
+        "Sea view balconies"
+      ],
+      "url": "https://darglobal.co.uk/project/les-vagues"
+    },
+    {
+      "id": "dg_AIDA_THO",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Trump International Hotel, Oman",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [
+        "Trump"
+      ],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_AIDA_TH",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Trump Cliff Villas",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [
+        "Trump"
+      ],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_AIDA",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Trump Golf Villas",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [
+        "Trump"
+      ],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_AIDA",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Fairway Villas",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_AIDA",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Coastal Investment Villas",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_TG",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "The Great Escape",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_TG2",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "The Great Escape 2",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_NIM",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Neptune Interiors by Mouawad",
+      "location": "saudi-arabia",
+      "country": "saudi-arabia",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [
+        "Mouawad"
+      ],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in saudi-arabia. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_MR",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Marriott Residences Aida, Oman",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [
+        "Marriott"
+      ],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_TJ",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Trump Tower Jeddah",
+      "location": "Jeddah Corniche, Saudi Arabia",
+      "country": "saudi-arabia",
+      "project_type": "Skyline Branded Tower & Hotel",
+      "brand_partners": [
+        "Trump Organization"
+      ],
+      "starting_price": "Premium luxury rates upon launch",
+      "description": "A soaring high-rise landmark redefining the Jeddah waterfront skyline with five-star luxury hotel services and elite branded residences.",
+      "amenities": [
+        "Red Sea views",
+        "Trump Spa & Wellness",
+        "Sky lounge & signature restaurant",
+        "VIP concierge"
+      ],
+      "url": "https://darglobal.co.uk/project/trump-tower-jeddah"
+    },
+    {
+      "id": "dg_LZ",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "L'Horizon",
+      "location": "International",
+      "country": "International",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in International. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_AIDA1",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Sunrise Haven",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_halo_villas",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Halo Villas",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_TTD",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Trump International Hotel & Tower Dubai",
+      "location": "Dubai, UAE",
+      "country": "International",
+      "project_type": "Branded Luxury Residences & 5-Star Hotel",
+      "brand_partners": [
+        "Trump Organization"
+      ],
+      "starting_price": "Premium pricing upon request",
+      "description": "Ultra-luxury hotel and branded residential tower in Dubai featuring iconic architecture and signature Trump hospitality, world-class golf amenities and skyline views.",
+      "amenities": [
+        "Infinity pool overlooking Dubai skyline",
+        "Exclusive Trump Club membership",
+        "Valet & 24/7 Concierge",
+        "Fine dining restaurants"
+      ],
+      "url": "https://darglobal.co.uk/project/trump-international-hotel-tower-dubai"
+    },
+    {
+      "id": "dg_JGE",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "D-Villas At Jumeirah Golf Estates",
+      "location": "International",
+      "country": "International",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in International. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_AIDA",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Amour Sans Detour",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_AIDA",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Amour Sans Detour 2",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_nickelodeon_",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Nickelodeon Hotels & Resorts â€“ AIDA, Oman",
+      "location": "Oman",
+      "country": "Oman",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [
+        "Nickelodeon"
+      ],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Oman. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_SM",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Trump International Simaisma, Qatar",
+      "location": "Simaisma, Qatar",
+      "country": "Simaisma, Qatar",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [
+        "Trump"
+      ],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Simaisma, Qatar. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    },
+    {
+      "id": "dg_RY",
+      "source": "DarGlobal",
+      "developer": "DarGlobal PLC (Dar Al Arkan Group)",
+      "project_name": "Darglobal mansions - Fendi Casa",
+      "location": "Rayana, Wadi Safar",
+      "country": "Rayana, Wadi Safar",
+      "project_type": "Luxury Residential Development",
+      "brand_partners": [
+        "Fendi"
+      ],
+      "starting_price": "Available on request / consultation",
+      "description": "Prestigious luxury development by DarGlobal located in Rayana, Wadi Safar. Designed with international architectural standards and world-class finishes.",
+      "amenities": [
+        "Concierge service",
+        "Swimming pool",
+        "Fitness club",
+        "Private parking",
+        "Landscaped grounds"
+      ],
+      "url": "https://darglobal.co.uk"
+    }
+  ],
+  "wasalt_properties": [
+    {
+      "id": "wasalt_5934916",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Floor 81 SQM with 3 Bedrooms",
+      "property_type": "Floor",
+      "price": 1195000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "King Abdullah",
+        "full_address": "King Abdullah, Central Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "81",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/floor-81-sqm-with-3-bedrooms-5934916"
+    },
+    {
+      "id": "wasalt_5972213",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Villa 210 SQM Facing South on 15m Width Street",
+      "property_type": "Villa",
+      "price": 1900000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Arid",
+        "full_address": "Al-Arid, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 7,
+        "bathrooms": 6,
+        "area_sqm": "210",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Maids Room",
+        "Rooftop",
+        "2 Separate Entrances"
+      ],
+      "url": "https://wasalt.com/en/villa-210-sqm-facing-south-on-15m-width-street-5972213"
+    },
+    {
+      "id": "wasalt_100325",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Saudi Real Estate Property",
+      "property_type": "Residential",
+      "price": null,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": null,
+        "full_address": null
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": null,
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/properties-for-sale-in-riyadh"
+    },
+    {
+      "id": "wasalt_5967919",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "عمارة سكنية تجارية 3,328م2 بحي المرسلات",
+      "property_type": "Building",
+      "price": null,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Mursalat",
+        "full_address": "Al-Mursalat, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "3328",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/undefined-5967919"
+    },
+    {
+      "id": "wasalt_5935016",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Floor 1726.72 SQM with 2 Bedrooms",
+      "property_type": "Floor",
+      "price": 1359180,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Olaya",
+        "full_address": "Al-Olaya, Central Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": null,
+        "area_sqm": "1726.72",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/floor-172672-sqm-with-2-bedrooms-5935016"
+    },
+    {
+      "id": "wasalt_5971969",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Floor with 4 Bedrooms",
+      "property_type": "Floor",
+      "price": 750000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Janadriyah",
+        "full_address": "Al-Janadriyah, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "area_sqm": "264",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Park",
+        "School",
+        "Mosque",
+        "Yard",
+        "Health Centre",
+        "Retail Outlet",
+        "Annex",
+        "Indoor Parking"
+      ],
+      "url": "https://wasalt.com/en/floor-with-4-bedrooms-5971969"
+    },
+    {
+      "id": "wasalt_5971384",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 450 SQM Facing North on 15m Width Street",
+      "property_type": "Land",
+      "price": 1450000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Mahdiyah",
+        "full_address": "Al-Mahdiyah, West Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "450",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-450-sqm-facing-north-on-15m-width-street-5971384"
+    },
+    {
+      "id": "wasalt_5971344",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 493.12 SQM Facing South on 20m Width Street",
+      "property_type": "Land",
+      "price": 2219040,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Mahdiyah",
+        "full_address": "Al-Mahdiyah, West Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "493.12",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-49312-sqm-facing-south-on-20m-width-street-5971344"
+    },
+    {
+      "id": "wasalt_5957075",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Floor 191.53 SQM with 4 Bedrooms",
+      "property_type": "Floor",
+      "price": 1450000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Khaleej",
+        "full_address": "Al-Khaleej, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": null,
+        "area_sqm": "191.53",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/floor-19153-sqm-with-4-bedrooms-5957075"
+    },
+    {
+      "id": "wasalt_5971176",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 375 SQM Facing South on 15m Width Street",
+      "property_type": "Land",
+      "price": 380250,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Khear",
+        "full_address": "Al-Khear, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "375",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-375-sqm-facing-south-on-15m-width-street-5971176"
+    },
+    {
+      "id": "wasalt_5971020",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 1125 SQM Facing East on 20m Width Street",
+      "property_type": "Land",
+      "price": 11250000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Nakheel",
+        "full_address": "Al-Nakheel, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "1125",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-1125-sqm-facing-east-on-20m-width-street-5971020"
+    },
+    {
+      "id": "wasalt_5971025",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 416 SQM Facing North East on 15m Width Street",
+      "property_type": "Land",
+      "price": 3200000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Wadi",
+        "full_address": "Al-Wadi, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "416",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-416-sqm-facing-north-east-on-15m-width-street-5971025"
+    },
+    {
+      "id": "wasalt_5971799",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Villa 450 SQM Facing South on 18m Width Street",
+      "property_type": "Villa",
+      "price": 2150000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Ar-Rimal",
+        "full_address": "Ar-Rimal, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": null,
+        "area_sqm": "450",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-450-sqm-facing-south-on-18m-width-street-5971799"
+    },
+    {
+      "id": "wasalt_5970818",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 10162.15 SQM",
+      "property_type": "Land",
+      "price": 20324300,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Ar-Rimal",
+        "full_address": "Ar-Rimal, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "10162.15",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-1016215-sqm-5970818"
+    },
+    {
+      "id": "wasalt_100582",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Saudi Real Estate Property",
+      "property_type": "Residential",
+      "price": null,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": null,
+        "full_address": null
+      },
+      "specs": {
+        "bedrooms": "2, 3, 4",
+        "bathrooms": "3",
+        "area_sqm": "107 - 267",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/properties-for-sale-in-riyadh"
+    },
+    {
+      "id": "wasalt_100583",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Saudi Real Estate Property",
+      "property_type": "Residential",
+      "price": null,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": null,
+        "full_address": null
+      },
+      "specs": {
+        "bedrooms": "2, 5",
+        "bathrooms": "3, 4",
+        "area_sqm": null,
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/properties-for-sale-in-riyadh"
+    },
+    {
+      "id": "wasalt_100584",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Saudi Real Estate Property",
+      "property_type": "Residential",
+      "price": null,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": null,
+        "full_address": null
+      },
+      "specs": {
+        "bedrooms": "1, 2, 3",
+        "bathrooms": "2, 3, 4",
+        "area_sqm": "105.32 - 190.34",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/properties-for-sale-in-riyadh"
+    },
+    {
+      "id": "wasalt_100585",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Saudi Real Estate Property",
+      "property_type": "Residential",
+      "price": null,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": null,
+        "full_address": null
+      },
+      "specs": {
+        "bedrooms": "1, 2, 4",
+        "bathrooms": "2, 3, 4",
+        "area_sqm": "62.77 - 259.21",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/properties-for-sale-in-riyadh"
+    },
+    {
+      "id": "wasalt_5805538",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Floor 300 SQM with 5 Bedrooms",
+      "property_type": "Floor",
+      "price": 1000000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Janadriyah",
+        "full_address": "Al-Janadriyah, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "300",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/floor-300-sqm-with-5-bedrooms-5805538"
+    },
+    {
+      "id": "wasalt_5971798",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Villa 252 SQM Facing South on 18m Width Street",
+      "property_type": "Villa",
+      "price": 3990000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Sedra",
+        "full_address": "Sedra, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": null,
+        "area_sqm": "252",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-252-sqm-facing-south-on-18m-width-street-5971798"
+    },
+    {
+      "id": "wasalt_5970348",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 375 SQM Facing East on 15m Width Street",
+      "property_type": "Land",
+      "price": 292500000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Dahiat Namar",
+        "full_address": "Dahiat Namar, West Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "375",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-375-sqm-facing-east-on-15m-width-street-5970348"
+    },
+    {
+      "id": "wasalt_5970356",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 540 SQM Facing East on 15m Width Street",
+      "property_type": "Land",
+      "price": 262440000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Dahiat Namar",
+        "full_address": "Dahiat Namar, West Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "540",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-540-sqm-facing-east-on-15m-width-street-5970356"
+    },
+    {
+      "id": "wasalt_5967923",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "مستودع تجاري 14,401.399م2 بحي المناخ",
+      "property_type": "Warehouse",
+      "price": null,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Manakh",
+        "full_address": "Al-Manakh, South Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "14401.399",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/undefined-5967923"
+    },
+    {
+      "id": "wasalt_5965188",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Villa 300 SQM Facing North on 15m Width Street",
+      "property_type": "Villa",
+      "price": 3800000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Ar-Rayan",
+        "full_address": "Ar-Rayan, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "300",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-300-sqm-facing-north-on-15m-width-street-5965188"
+    },
+    {
+      "id": "wasalt_5970217",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 700 SQM Facing North West on 30m Width Street",
+      "property_type": "Land",
+      "price": 3080000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "As-Saadah",
+        "full_address": "As-Saadah, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "700",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-700-sqm-facing-north-west-on-30m-width-street-5970217"
+    },
+    {
+      "id": "wasalt_5968397",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 600 SQM Facing East on 20m Width Street",
+      "property_type": "Land",
+      "price": 4680000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "An-Narjis",
+        "full_address": "An-Narjis, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "600",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-600-sqm-facing-east-on-20m-width-street-5968397"
+    },
+    {
+      "id": "wasalt_5806102",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "دور 192 متر مربع ب 5 غرف",
+      "property_type": "Floor",
+      "price": 1750000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Qurtubah",
+        "full_address": "Qurtubah, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "192",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/floor-1924-sqm-with-5-bedrooms-5806102"
+    },
+    {
+      "id": "wasalt_5944382",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Villa 250 SQM Facing North on 15m Width Street",
+      "property_type": "Villa",
+      "price": 1500000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Ar-Rimal",
+        "full_address": "Ar-Rimal, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": 6,
+        "area_sqm": "250",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-250-sqm-facing-north-on-15m-width-street-5944382"
+    },
+    {
+      "id": "wasalt_5968847",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 2510.875 SQM Facing South on 25m Width Street",
+      "property_type": "Land",
+      "price": 13809812500,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Ar-Rimal",
+        "full_address": "Ar-Rimal, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "2510.875",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-2510875-sqm-facing-south-on-25m-width-street-5968847"
+    },
+    {
+      "id": "wasalt_5969158",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 312.5 SQM Facing South on 15m Width Street",
+      "property_type": "Land",
+      "price": 1562500,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Ar-Rimal",
+        "full_address": "Ar-Rimal, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "312.5",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-3125-sqm-facing-south-on-15m-width-street-5969158"
+    },
+    {
+      "id": "wasalt_5969160",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 288 SQM Facing South on 15m Width Street",
+      "property_type": "Land",
+      "price": 1670400,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Muanisiyah",
+        "full_address": "Al-Muanisiyah, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "288",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-288-sqm-facing-south-on-15m-width-street-5969160"
+    },
+    {
+      "id": "wasalt_5906556",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Floor 192.39 SQM with 3 Bedrooms",
+      "property_type": "Floor",
+      "price": 1550000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Ishbiliyah",
+        "full_address": "Ishbiliyah, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "192.39",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/floor-19239-sqm-with-3-bedrooms-5906556"
+    },
+    {
+      "id": "wasalt_5969161",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Land 300 SQM Facing East on 15m Width Street",
+      "property_type": "Land",
+      "price": 1110000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Ar-Rimal",
+        "full_address": "Ar-Rimal, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "300",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-300-sqm-facing-east-on-15m-width-street-5969161"
+    },
+    {
+      "id": "wasalt_100159",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Saudi Real Estate Property",
+      "property_type": "Residential",
+      "price": null,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": null,
+        "full_address": null
+      },
+      "specs": {
+        "bedrooms": "3, 4",
+        "bathrooms": "5, 7",
+        "area_sqm": null,
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/properties-for-sale-in-riyadh"
+    },
+    {
+      "id": "wasalt_100319",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Saudi Real Estate Property",
+      "property_type": "Residential",
+      "price": null,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": null,
+        "full_address": null
+      },
+      "specs": {
+        "bedrooms": "4, 5, 6",
+        "bathrooms": "5, 6, 7",
+        "area_sqm": null,
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/properties-for-sale-in-riyadh"
+    },
+    {
+      "id": "wasalt_100320",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Saudi Real Estate Property",
+      "property_type": "Residential",
+      "price": null,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": null,
+        "full_address": null
+      },
+      "specs": {
+        "bedrooms": "2, 3",
+        "bathrooms": "2, 3",
+        "area_sqm": "9007199254740991 - 0",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/properties-for-sale-in-riyadh"
+    },
+    {
+      "id": "wasalt_100246",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "Saudi Real Estate Property",
+      "property_type": "Residential",
+      "price": null,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": null,
+        "full_address": null
+      },
+      "specs": {
+        "bedrooms": "5",
+        "bathrooms": "5",
+        "area_sqm": null,
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/properties-for-sale-in-riyadh"
+    },
+    {
+      "id": "wasalt_5807225",
+      "source": "Wasalt",
+      "category": "Riyadh Sale",
+      "title": "شقة ب 3 غرف",
+      "property_type": "Apartment",
+      "price": 1800000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Qurtubah",
+        "full_address": "Qurtubah, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "226",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-with-3-bedrooms-5807225"
+    },
+    {
+      "id": "wasalt_5934617",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Building 400 SQM Facing South",
+      "property_type": "Building",
+      "price": 3500000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Safa",
+        "full_address": "Al Safa, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 22,
+        "bathrooms": null,
+        "area_sqm": "400",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/building-400-sqm-facing-south-5934617"
+    },
+    {
+      "id": "wasalt_5974656",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment",
+      "property_type": "Apartment",
+      "price": 480000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Naeem",
+        "full_address": "Al Naeem, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": 1,
+        "area_sqm": "77",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Park",
+        "School",
+        "Mosque",
+        "Health Centre",
+        "Garden",
+        "Retail Outlet",
+        "Storage Room",
+        "Walk-in Closet",
+        "Driver Room",
+        "Laundry Room",
+        "2 Separate Entrances"
+      ],
+      "url": "https://wasalt.com/en/apartment-5974656"
+    },
+    {
+      "id": "wasalt_5972831",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment",
+      "property_type": "Apartment",
+      "price": 1050000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Naeem",
+        "full_address": "Al Naeem, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": 3,
+        "area_sqm": "172",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Park",
+        "School",
+        "Mosque",
+        "Garden",
+        "Health Centre",
+        "Retail Outlet",
+        "Annex",
+        "Rooftop",
+        "Indoor Parking",
+        "Indoor Staircase",
+        "2 Separate Entrances"
+      ],
+      "url": "https://wasalt.com/en/apartment-5972831"
+    },
+    {
+      "id": "wasalt_5972197",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 340000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Faiha|A",
+        "full_address": "Al Faiha|A, South Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "720",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Indoor Parking",
+        "Indoor Staircase",
+        "2 Separate Entrances"
+      ],
+      "url": "https://wasalt.com/en/apartment-with-3-bedrooms-5972197"
+    },
+    {
+      "id": "wasalt_5903906",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Land 600 SQM Facing North on 15m Width Street",
+      "property_type": "Land",
+      "price": 930000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al-Noor",
+        "full_address": "Al-Noor, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "600",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-600-sqm-facing-north-on-15m-width-street-5903906"
+    },
+    {
+      "id": "wasalt_5972081",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment with 2 Bedrooms",
+      "property_type": "Apartment",
+      "price": 280000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Bawadi",
+        "full_address": "Al Bawadi, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_sqm": "575",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Indoor Parking",
+        "Indoor Staircase"
+      ],
+      "url": "https://wasalt.com/en/apartment-with-2-bedrooms-5972081"
+    },
+    {
+      "id": "wasalt_5972073",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 349000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Safa",
+        "full_address": "Al Safa, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area_sqm": "625",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Indoor Parking",
+        "Indoor Staircase",
+        "2 Separate Entrances"
+      ],
+      "url": "https://wasalt.com/en/apartment-with-3-bedrooms-5972073"
+    },
+    {
+      "id": "wasalt_5972072",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment with 2 Bedrooms",
+      "property_type": "Apartment",
+      "price": 276000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Safa",
+        "full_address": "Al Safa, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_sqm": "625",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Indoor Parking",
+        "Indoor Staircase"
+      ],
+      "url": "https://wasalt.com/en/apartment-with-2-bedrooms-5972072"
+    },
+    {
+      "id": "wasalt_5934631",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment 247.9 SQM with 6 Bedrooms",
+      "property_type": "Apartment",
+      "price": 1180000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Rabbwah",
+        "full_address": "Al Rabbwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 6,
+        "bathrooms": null,
+        "area_sqm": "247.9",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-2479-sqm-with-6-bedrooms-5934631"
+    },
+    {
+      "id": "wasalt_5972196",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Building 480 SQM with 4 Floors Facing South",
+      "property_type": "Building",
+      "price": 3000000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Safa",
+        "full_address": "Al Safa, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 20,
+        "bathrooms": null,
+        "area_sqm": "1000",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Park",
+        "School",
+        "Mosque",
+        "Yard",
+        "Health Centre",
+        "Retail Outlet",
+        "Walk-in Closet",
+        "Maids Room",
+        "Annex",
+        "Driver Room",
+        "Indoor Parking",
+        "Additional Staircase ",
+        "Terrace"
+      ],
+      "url": "https://wasalt.com/en/building-480-sqm-with-4-floors-facing-south-5972196"
+    },
+    {
+      "id": "wasalt_5972195",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment with 2 Bedrooms",
+      "property_type": "Apartment",
+      "price": 255000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Faiha|A",
+        "full_address": "Al Faiha|A, South Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_sqm": "720",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Indoor Parking"
+      ],
+      "url": "https://wasalt.com/en/apartment-with-2-bedrooms-5972195"
+    },
+    {
+      "id": "wasalt_5966765",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment",
+      "property_type": "Apartment",
+      "price": 620000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Salamah",
+        "full_address": "Al Salamah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": 3,
+        "area_sqm": "111",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Park",
+        "School",
+        "Mosque",
+        "Health Centre",
+        "Retail Outlet",
+        "Storage Room",
+        "Walk-in Closet",
+        "Driver Room",
+        "Laundry Room",
+        "Indoor Parking",
+        "2 Separate Entrances"
+      ],
+      "url": "https://wasalt.com/en/apartment-5966765"
+    },
+    {
+      "id": "wasalt_5934355",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment 170.37 SQM with 4 Bedrooms",
+      "property_type": "Apartment",
+      "price": 640000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Safa",
+        "full_address": "Al Safa, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": null,
+        "area_sqm": "170.37",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-17037-sqm-with-4-bedrooms-5934355"
+    },
+    {
+      "id": "wasalt_5971937",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 390000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Faiha|A",
+        "full_address": "Al Faiha|A, South Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area_sqm": "1666",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Park",
+        "School",
+        "Mosque",
+        "Health Centre",
+        "Retail Outlet",
+        "Indoor Parking",
+        "2 Separate Entrances"
+      ],
+      "url": "https://wasalt.com/en/apartment-with-3-bedrooms-5971937"
+    },
+    {
+      "id": "wasalt_5967587",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 667000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Nahdah",
+        "full_address": "Al Nahdah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area_sqm": "2297",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Park",
+        "School",
+        "Mosque",
+        "Health Centre",
+        "Garden",
+        "Retail Outlet",
+        "Indoor Parking",
+        "2 Separate Entrances"
+      ],
+      "url": "https://wasalt.com/en/apartment-with-3-bedrooms-5967587"
+    },
+    {
+      "id": "wasalt_5806504",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Villa 300 SQM Facing North on 25m Width Street",
+      "property_type": "Villa",
+      "price": 1200000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al-Noor",
+        "full_address": "Al-Noor, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "300",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-300-sqm-facing-north-on-25m-width-street-5806504"
+    },
+    {
+      "id": "wasalt_5934645",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment 165.42 SQM with 4 Bedrooms",
+      "property_type": "Apartment",
+      "price": 640000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Safa",
+        "full_address": "Al Safa, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": null,
+        "area_sqm": "165.42",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-16542-sqm-with-4-bedrooms-5934645"
+    },
+    {
+      "id": "wasalt_5972071",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 359000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Nuzha",
+        "full_address": "Al Nuzha, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area_sqm": "720",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Mosque",
+        "Retail Outlet",
+        "Indoor Parking",
+        "Indoor Staircase",
+        "2 Separate Entrances"
+      ],
+      "url": "https://wasalt.com/en/apartment-with-3-bedrooms-5972071"
+    },
+    {
+      "id": "wasalt_5971163",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Land 600 SQM Facing West on 25m Width Street",
+      "property_type": "Land",
+      "price": 270000000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al-Safwa",
+        "full_address": "Al-Safwa, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "600",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-600-sqm-facing-west-on-25m-width-street-5971163"
+    },
+    {
+      "id": "wasalt_5973582",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment 215.39 SQM with 6 Bedrooms",
+      "property_type": "Apartment",
+      "price": 850000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Marwah",
+        "full_address": "Al Marwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 6,
+        "bathrooms": null,
+        "area_sqm": "215.39",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-21539-sqm-with-6-bedrooms-5973582"
+    },
+    {
+      "id": "wasalt_5959158",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment 176.32 SQM with 5 Bedrooms",
+      "property_type": "Apartment",
+      "price": 580000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Rabbwah",
+        "full_address": "Al Rabbwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "176.32",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-17632-sqm-with-5-bedrooms-5959158"
+    },
+    {
+      "id": "wasalt_5973395",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Villa 484.82 SQM Facing North on 15m Width Street",
+      "property_type": "Villa",
+      "price": 1450000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Rahmanyah",
+        "full_address": "Al Rahmanyah, East Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 12,
+        "bathrooms": null,
+        "area_sqm": "484.82",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-48482-sqm-facing-north-on-15m-width-street-5973395"
+    },
+    {
+      "id": "wasalt_5972220",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment 165.66 SQM with 5 Bedrooms",
+      "property_type": "Apartment",
+      "price": 750000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Naeem",
+        "full_address": "Al Naeem, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "165.66",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-16566-sqm-with-5-bedrooms-5972220"
+    },
+    {
+      "id": "wasalt_5806592",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Land 480 SQM Facing South East on 12m Width Street",
+      "property_type": "Land",
+      "price": 2496000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Bawadi",
+        "full_address": "Al Bawadi, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "480",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-480-sqm-facing-south-east-on-12m-width-street-5806592"
+    },
+    {
+      "id": "wasalt_5967312",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment",
+      "property_type": "Apartment",
+      "price": 750000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Falah",
+        "full_address": "Al Falah, East Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": 4,
+        "area_sqm": "209",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Park",
+        "School",
+        "Mosque",
+        "Yard",
+        "Garden",
+        "Storage Room",
+        "Maids Room",
+        "Annex",
+        "2 Separate Entrances",
+        "Terrace"
+      ],
+      "url": "https://wasalt.com/en/apartment-5967312"
+    },
+    {
+      "id": "wasalt_5971920",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment 780 SQM with 2 Bedrooms",
+      "property_type": "Apartment",
+      "price": 287000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Marwah",
+        "full_address": "Al Marwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": null,
+        "area_sqm": "780",
+        "listing_type": "Sale"
+      },
+      "amenities": [
+        "Park",
+        "School",
+        "Mosque",
+        "Health Centre",
+        "Indoor Parking",
+        "2 Separate Entrances"
+      ],
+      "url": "https://wasalt.com/en/apartment-780-sqm-with-2-bedrooms-5971920"
+    },
+    {
+      "id": "wasalt_5970586",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment 129.69 SQM with 4 Bedrooms",
+      "property_type": "Apartment",
+      "price": 740000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Naeem",
+        "full_address": "Al Naeem, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": null,
+        "area_sqm": "129.69",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-12969-sqm-with-4-bedrooms-5970586"
+    },
+    {
+      "id": "wasalt_5970587",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment 118.71 SQM with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 630000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Naeem",
+        "full_address": "Al Naeem, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "118.71",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-11871-sqm-with-3-bedrooms-5970587"
+    },
+    {
+      "id": "wasalt_5966893",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment 100.38 SQM with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 460000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Safa",
+        "full_address": "Al Safa, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "100.38",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-10038-sqm-with-3-bedrooms-5966893"
+    },
+    {
+      "id": "wasalt_5807208",
+      "source": "Wasalt",
+      "category": "Jeddah Sale",
+      "title": "Apartment with 2 Bedrooms",
+      "property_type": "Apartment",
+      "price": 249000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Faiha|A",
+        "full_address": "Al Faiha|A, South Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": null,
+        "area_sqm": "750",
+        "listing_type": "Sale"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-with-2-bedrooms-5807208"
+    },
+    {
+      "id": "wasalt_5967091",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment 312 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 26400,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Bader",
+        "full_address": "Bader, South Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "312",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-312-sqm-with-1-bedroom-5967091"
+    },
+    {
+      "id": "wasalt_5972202",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Furnished Villa 300 SQM Facing East",
+      "property_type": "Villa",
+      "price": 240000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "An-Narjis",
+        "full_address": "An-Narjis, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 6,
+        "bathrooms": 5,
+        "area_sqm": "550",
+        "listing_type": "Rent"
+      },
+      "amenities": [
+        "Park",
+        "School",
+        "Mosque",
+        "Yard",
+        "Health Centre",
+        "Retail Outlet",
+        "Storage Room",
+        "Walk-in Closet",
+        "Maids Room",
+        "Driver Room",
+        "Rooftop",
+        "Laundry Room",
+        "Indoor Parking",
+        "2 Separate Entrances"
+      ],
+      "url": "https://wasalt.com/en/furnished-villa-300-sqm-facing-east-5972202"
+    },
+    {
+      "id": "wasalt_5972189",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 50000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "An-Narjis",
+        "full_address": "An-Narjis, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area_sqm": "244",
+        "listing_type": "Rent"
+      },
+      "amenities": [
+        "Mosque",
+        "Rooftop"
+      ],
+      "url": "https://wasalt.com/en/apartment-with-3-bedrooms-5972189"
+    },
+    {
+      "id": "wasalt_5972178",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Furnished Apartment with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 60000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Ezdihar",
+        "full_address": "Al-Ezdihar, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "area_sqm": "60",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/furnished-apartment-with-1-bedroom-5972178"
+    },
+    {
+      "id": "wasalt_5957076",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Land 750 SQM Facing South",
+      "property_type": "Land",
+      "price": 90000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Binban",
+        "full_address": "Binban, Riyadh"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "750",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-750-sqm-facing-south-5957076"
+    },
+    {
+      "id": "wasalt_5972176",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Furnished Apartment with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 60000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Malqa",
+        "full_address": "Al-Malqa, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "area_sqm": "60",
+        "listing_type": "Rent"
+      },
+      "amenities": [
+        "Garden"
+      ],
+      "url": "https://wasalt.com/en/furnished-apartment-with-1-bedroom-5972176"
+    },
+    {
+      "id": "wasalt_5972170",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Furnished Apartment 60 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 50000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "As-Sahafa",
+        "full_address": "As-Sahafa, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "area_sqm": "60",
+        "listing_type": "Rent"
+      },
+      "amenities": [
+        "Garden"
+      ],
+      "url": "https://wasalt.com/en/furnished-apartment-60-sqm-with-1-bedroom-5972170"
+    },
+    {
+      "id": "wasalt_5972172",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Furnished Apartment with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 60000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Malqa",
+        "full_address": "Al-Malqa, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "area_sqm": "60",
+        "listing_type": "Rent"
+      },
+      "amenities": [
+        "Garden"
+      ],
+      "url": "https://wasalt.com/en/furnished-apartment-with-1-bedroom-5972172"
+    },
+    {
+      "id": "wasalt_5966841",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment 500 SQM with 2 Bedrooms",
+      "property_type": "Apartment",
+      "price": 38000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al Bayan",
+        "full_address": "Al Bayan, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": null,
+        "area_sqm": "500",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-500-sqm-with-2-bedrooms-5966841"
+    },
+    {
+      "id": "wasalt_5972169",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Furnished Apartment with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 60000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Murooj",
+        "full_address": "Al-Murooj, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "area_sqm": "60",
+        "listing_type": "Rent"
+      },
+      "amenities": [
+        "Garden"
+      ],
+      "url": "https://wasalt.com/en/furnished-apartment-with-1-bedroom-5972169"
+    },
+    {
+      "id": "wasalt_5972164",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment 625 SQM with 2 Bedrooms",
+      "property_type": "Apartment",
+      "price": 21400,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Az-Zahra",
+        "full_address": "Az-Zahra, West Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": null,
+        "area_sqm": "625",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-625-sqm-with-2-bedrooms-5972164"
+    },
+    {
+      "id": "wasalt_5971527",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment 1000 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "East An-Naseem",
+        "full_address": "East An-Naseem, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "1000",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-1000-sqm-with-1-bedroom-5971527"
+    },
+    {
+      "id": "wasalt_5959581",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment 103.1 SQM with 2 Bedrooms",
+      "property_type": "Apartment",
+      "price": 95000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Arid",
+        "full_address": "Al-Arid, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": null,
+        "area_sqm": "103.1",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-1031-sqm-with-2-bedrooms-5959581"
+    },
+    {
+      "id": "wasalt_5971703",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Villa 169.52 SQM Facing North with 3 Bedrooms",
+      "property_type": "Villa",
+      "price": 95000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Arid",
+        "full_address": "Al-Arid, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "169.52",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-16952-sqm-facing-north-with-3-bedrooms-5971703"
+    },
+    {
+      "id": "wasalt_5971701",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Villa 210 SQM Facing West with 5 Bedrooms",
+      "property_type": "Villa",
+      "price": 140000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Arid",
+        "full_address": "Al-Arid, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "210",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-210-sqm-facing-west-with-5-bedrooms-5971701"
+    },
+    {
+      "id": "wasalt_5810409",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment with 2 Bedrooms",
+      "property_type": "Apartment",
+      "price": 30000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Bader",
+        "full_address": "Bader, South Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": null,
+        "area_sqm": "60",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-with-2-bedrooms-5810409"
+    },
+    {
+      "id": "wasalt_5907431",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment 875 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 3500,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Yarmuk",
+        "full_address": "Al-Yarmuk, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "875",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-875-sqm-with-1-bedroom-5907431"
+    },
+    {
+      "id": "wasalt_5971522",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Villa 240 SQM Facing North with 5 Bedrooms",
+      "property_type": "Villa",
+      "price": 60000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "An-Nadheem",
+        "full_address": "An-Nadheem, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "240",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-240-sqm-facing-north-with-5-bedrooms-5971522"
+    },
+    {
+      "id": "wasalt_5971697",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Villa 144.629 SQM Facing West with 3 Bedrooms",
+      "property_type": "Villa",
+      "price": 75000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "An-Narjis",
+        "full_address": "An-Narjis, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "144.629",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-144629-sqm-facing-west-with-3-bedrooms-5971697"
+    },
+    {
+      "id": "wasalt_5971694",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment 132.67 SQM with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 65000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "An-Narjis",
+        "full_address": "An-Narjis, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "132.67",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-13267-sqm-with-3-bedrooms-5971694"
+    },
+    {
+      "id": "wasalt_5971796",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Semi-Furnished Villa 265 SQM Facing East",
+      "property_type": "Villa",
+      "price": 90000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "An-Narjis",
+        "full_address": "An-Narjis, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": 7,
+        "area_sqm": "250",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/semi-furnished-villa-265-sqm-facing-east-5971796"
+    },
+    {
+      "id": "wasalt_5971287",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment 372 SQM with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 40000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Qadisiyah",
+        "full_address": "Al-Qadisiyah, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "372",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-372-sqm-with-3-bedrooms-5971287"
+    },
+    {
+      "id": "wasalt_5971512",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Villa 348 SQM Facing East with 7 Bedrooms",
+      "property_type": "Villa",
+      "price": 70000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "An-Nadheem",
+        "full_address": "An-Nadheem, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 7,
+        "bathrooms": null,
+        "area_sqm": "348",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-348-sqm-facing-east-with-7-bedrooms-5971512"
+    },
+    {
+      "id": "wasalt_5810428",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 27000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "As-Suwaidi",
+        "full_address": "As-Suwaidi, West Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "60",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-with-1-bedroom-5810428"
+    },
+    {
+      "id": "wasalt_5905472",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Building 875 SQM Facing North",
+      "property_type": "Building",
+      "price": 2200000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "An-Narjis",
+        "full_address": "An-Narjis, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 53,
+        "bathrooms": null,
+        "area_sqm": "875",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/building-875-sqm-facing-north-5905472"
+    },
+    {
+      "id": "wasalt_5971456",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Villa 400 SQM Facing North with 4 Bedrooms",
+      "property_type": "Villa",
+      "price": 170000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Sedra",
+        "full_address": "Sedra, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": null,
+        "area_sqm": "400",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-400-sqm-facing-north-with-4-bedrooms-5971456"
+    },
+    {
+      "id": "wasalt_5971685",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment 600 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 32400,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Nuzha",
+        "full_address": "Al-Nuzha, North Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "600",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-600-sqm-with-1-bedroom-5971685"
+    },
+    {
+      "id": "wasalt_5971511",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment 2800 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 3500,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Muanisiyah",
+        "full_address": "Al-Muanisiyah, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "2800",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-2800-sqm-with-1-bedroom-5971511"
+    },
+    {
+      "id": "wasalt_5958469",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Villa 300 SQM Facing West with 5 Bedrooms",
+      "property_type": "Villa",
+      "price": 100000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "Al-Andalus",
+        "full_address": "Al-Andalus, East Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "300",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-300-sqm-facing-west-with-5-bedrooms-5958469"
+    },
+    {
+      "id": "wasalt_5810439",
+      "source": "Wasalt",
+      "category": "Riyadh Rent",
+      "title": "Apartment with 2 Bedrooms",
+      "property_type": "Apartment",
+      "price": 32000,
+      "currency": "SAR",
+      "location": {
+        "city": "Riyadh",
+        "district": "As-Suwaidi Al-Gharbi",
+        "full_address": "As-Suwaidi Al-Gharbi, West Riyadh, Riyadh"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": null,
+        "area_sqm": "70",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-with-2-bedrooms-5810439"
+    },
+    {
+      "id": "wasalt_5877757",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 175.24 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 30000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Nuzha",
+        "full_address": "Al Nuzha, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "175.24",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-17524-sqm-with-1-bedroom-5877757"
+    },
+    {
+      "id": "wasalt_5967939",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 525 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2500,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Bawadi",
+        "full_address": "Al Bawadi, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "525",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-525-sqm-with-1-bedroom-5967939"
+    },
+    {
+      "id": "wasalt_5972030",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 600 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Bawadi",
+        "full_address": "Al Bawadi, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "600",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-600-sqm-with-1-bedroom-5972030"
+    },
+    {
+      "id": "wasalt_5972191",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 525 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2500,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Bawadi",
+        "full_address": "Al Bawadi, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "525",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-525-sqm-with-1-bedroom-5972191"
+    },
+    {
+      "id": "wasalt_5957953",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Land 1009.77 SQM",
+      "property_type": "Land",
+      "price": 504885,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Nuzha",
+        "full_address": "Al Nuzha, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "1009.77",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-100977-sqm-5957953"
+    },
+    {
+      "id": "wasalt_5972190",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 600 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2500,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Bawadi",
+        "full_address": "Al Bawadi, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "600",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-600-sqm-with-1-bedroom-5972190"
+    },
+    {
+      "id": "wasalt_5970862",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 157.64 SQM with 4 Bedrooms",
+      "property_type": "Apartment",
+      "price": 30000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al-Wisam",
+        "full_address": "Al-Wisam, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": null,
+        "area_sqm": "157.64",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-15764-sqm-with-4-bedrooms-5970862"
+    },
+    {
+      "id": "wasalt_5970366",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 400 SQM with 5 Bedrooms",
+      "property_type": "Apartment",
+      "price": 55000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Rawdhah",
+        "full_address": "Al Rawdhah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "400",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-400-sqm-with-5-bedrooms-5970366"
+    },
+    {
+      "id": "wasalt_5970458",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 173.57 SQM with 4 Bedrooms",
+      "property_type": "Apartment",
+      "price": 55000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Nahdah",
+        "full_address": "Al Nahdah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": null,
+        "area_sqm": "173.57",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-17357-sqm-with-4-bedrooms-5970458"
+    },
+    {
+      "id": "wasalt_5970451",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 551.23 SQM with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 28000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al-Manarat",
+        "full_address": "Al-Manarat, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "551.23",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-55123-sqm-with-3-bedrooms-5970451"
+    },
+    {
+      "id": "wasalt_5970456",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 460 SQM with 5 Bedrooms",
+      "property_type": "Apartment",
+      "price": 50000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Azizeyyah",
+        "full_address": "Al Azizeyyah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "460",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-460-sqm-with-5-bedrooms-5970456"
+    },
+    {
+      "id": "wasalt_5970455",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 649 SQM with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 35000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Nuzha",
+        "full_address": "Al Nuzha, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "649",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-649-sqm-with-3-bedrooms-5970455"
+    },
+    {
+      "id": "wasalt_5970436",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Villa 300 SQM Facing East with 8 Bedrooms",
+      "property_type": "Villa",
+      "price": 65000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al-Noor",
+        "full_address": "Al-Noor, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 8,
+        "bathrooms": null,
+        "area_sqm": "300",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/villa-300-sqm-facing-east-with-8-bedrooms-5970436"
+    },
+    {
+      "id": "wasalt_5970161",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 50 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2300,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Marwah",
+        "full_address": "Al Marwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "50",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-50-sqm-with-1-bedroom-5970161"
+    },
+    {
+      "id": "wasalt_5970150",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 50 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2700,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Marwah",
+        "full_address": "Al Marwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "50",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-50-sqm-with-1-bedroom-5970150"
+    },
+    {
+      "id": "wasalt_5815778",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment with 6 Bedrooms",
+      "property_type": "Apartment",
+      "price": 84000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Rayaan",
+        "full_address": "Al Rayaan, East Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 6,
+        "bathrooms": null,
+        "area_sqm": "197",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-with-6-bedrooms-5815778"
+    },
+    {
+      "id": "wasalt_5970149",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 70 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2700,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Rabbwah",
+        "full_address": "Al Rabbwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "70",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-70-sqm-with-1-bedroom-5970149"
+    },
+    {
+      "id": "wasalt_5970310",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Land 618.2 SQM Facing North",
+      "property_type": "Land",
+      "price": 500000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Samer",
+        "full_address": "Al Samer, East Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": null,
+        "bathrooms": null,
+        "area_sqm": "618.2",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/land-6182-sqm-facing-north-5970310"
+    },
+    {
+      "id": "wasalt_5970148",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 50 SQM with 2 Bedrooms",
+      "property_type": "Apartment",
+      "price": 3500,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Marwah",
+        "full_address": "Al Marwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 2,
+        "bathrooms": null,
+        "area_sqm": "50",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-50-sqm-with-2-bedrooms-5970148"
+    },
+    {
+      "id": "wasalt_5970145",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 70 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2700,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Rabbwah",
+        "full_address": "Al Rabbwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "70",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-70-sqm-with-1-bedroom-5970145"
+    },
+    {
+      "id": "wasalt_5970144",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 70 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2700,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Rabbwah",
+        "full_address": "Al Rabbwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "70",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-70-sqm-with-1-bedroom-5970144"
+    },
+    {
+      "id": "wasalt_5970118",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 60 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2700,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Naseem",
+        "full_address": "Al Naseem, South Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "60",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-60-sqm-with-1-bedroom-5970118"
+    },
+    {
+      "id": "wasalt_5970114",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 70 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2700,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Rabbwah",
+        "full_address": "Al Rabbwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "70",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-70-sqm-with-1-bedroom-5970114"
+    },
+    {
+      "id": "wasalt_5823173",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment with 5 Bedrooms",
+      "property_type": "Apartment",
+      "price": 50000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Swaryee",
+        "full_address": "Al Swaryee, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": null,
+        "area_sqm": "174",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-with-5-bedrooms-5823173"
+    },
+    {
+      "id": "wasalt_5970102",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 60 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2700,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Naseem",
+        "full_address": "Al Naseem, South Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "60",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-60-sqm-with-1-bedroom-5970102"
+    },
+    {
+      "id": "wasalt_5970101",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 70 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2700,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Rabbwah",
+        "full_address": "Al Rabbwah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "70",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-70-sqm-with-1-bedroom-5970101"
+    },
+    {
+      "id": "wasalt_5970100",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 60 SQM with 1 Bedroom",
+      "property_type": "Apartment",
+      "price": 2700,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Naseem",
+        "full_address": "Al Naseem, South Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 1,
+        "bathrooms": null,
+        "area_sqm": "60",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-60-sqm-with-1-bedroom-5970100"
+    },
+    {
+      "id": "wasalt_5969726",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 895.5 SQM with 4 Bedrooms",
+      "property_type": "Apartment",
+      "price": 65000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Faysaleyyah",
+        "full_address": "Al Faysaleyyah, North Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 4,
+        "bathrooms": null,
+        "area_sqm": "895.5",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-8955-sqm-with-4-bedrooms-5969726"
+    },
+    {
+      "id": "wasalt_5969642",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment 88.51 SQM with 3 Bedrooms",
+      "property_type": "Apartment",
+      "price": 26000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Mraykh",
+        "full_address": "Mraykh, East Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": null,
+        "area_sqm": "88.51",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-8851-sqm-with-3-bedrooms-5969642"
+    },
+    {
+      "id": "wasalt_5823186",
+      "source": "Wasalt",
+      "category": "Jeddah Rent",
+      "title": "Apartment with 6 Bedrooms",
+      "property_type": "Apartment",
+      "price": 32000,
+      "currency": "SAR",
+      "location": {
+        "city": "Jeddah",
+        "district": "Al Salyhyah",
+        "full_address": "Al Salyhyah, East Jeddah, Jeddah"
+      },
+      "specs": {
+        "bedrooms": 6,
+        "bathrooms": null,
+        "area_sqm": "630",
+        "listing_type": "Rent"
+      },
+      "amenities": [],
+      "url": "https://wasalt.com/en/apartment-with-6-bedrooms-5823186"
+    }
+  ]
+}

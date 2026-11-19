@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: darglobal-wasalt-ai:latest
+    container_name: darglobal_wasalt_chatbot
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - OPENROUTER_MODEL=meta-llama/llama-3.3-70b-instruct:free
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY:-}
+    volumes:
+      - ./data:/app/data:ro
