@@ -7,7 +7,7 @@ class OpenRouterClient:
     def __init__(self, api_key: str = None, model: str = None):
         self.api_key = api_key or os.getenv("OPENROUTER_API_KEY", "").strip()
         # Free model default
-        self.model = model or os.getenv("OPENROUTER_MODEL", "meta-llama/llama-3.3-70b-instruct:free")
+        self.model = model or os.getenv("OPENROUTER_MODEL", "nvidia/nemotron-3.5-lightning:free")
         self.api_url = "https://openrouter.ai/api/v1/chat/completions"
 
     @property

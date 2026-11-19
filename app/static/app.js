@@ -1,6 +1,6 @@
 let chatHistory = [];
 let userApiKey = localStorage.getItem('openrouter_key') || '';
-let userModel = localStorage.getItem('openrouter_model') || 'meta-llama/llama-3.3-70b-instruct:free';
+let userModel = localStorage.getItem('openrouter_model') || 'nvidia/nemotron-3.5-lightning:free';
 
 document.addEventListener('DOMContentLoaded', () => {
   if (userApiKey) {
